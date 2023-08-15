@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 0b063ab8f395b9e0c8d074e4983e2978
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4814959400986458936
+    second: Pixel Effects Sprites_0
+  - first:
+      213: 3113754644291169567
+    second: Pixel Effects Sprites_1
+  - first:
+      213: -546755970669465053
+    second: Pixel Effects Sprites_2
+  - first:
+      213: 5604801188093585581
+    second: Pixel Effects Sprites_3
+  - first:
+      213: 8325405241996487796
+    second: Pixel Effects Sprites_4
+  - first:
+      213: -6026605216505693652
+    second: Pixel Effects Sprites_5
+  - first:
+      213: 9059857202725276454
+    second: Pixel Effects Sprites_6
+  - first:
+      213: -2945454954334510456
+    second: Pixel Effects Sprites_7
+  - first:
+      213: 6921160641829724617
+    second: Pixel Effects Sprites_8
+  - first:
+      213: 2443908782947681459
+    second: Pixel Effects Sprites_9
+  - first:
+      213: 3314569989704733152
+    second: Pixel Effects Sprites_10
+  - first:
+      213: -6851753872812005383
+    second: Pixel Effects Sprites_11
+  - first:
+      213: -7554826205720471943
+    second: Pixel Effects Sprites_12
+  - first:
+      213: 990144914190285426
+    second: Pixel Effects Sprites_13
+  - first:
+      213: 5156990210557923251
+    second: Pixel Effects Sprites_14
+  - first:
+      213: -1265766731076989708
+    second: Pixel Effects Sprites_15
+  - first:
+      213: 7570986824411201384
+    second: Pixel Effects Sprites_16
+  - first:
+      213: 7888829510010201601
+    second: Pixel Effects Sprites_17
+  - first:
+      213: -8636412752943457287
+    second: Pixel Effects Sprites_18
+  - first:
+      213: -6878237866989829024
+    second: Pixel Effects Sprites_19
+  - first:
+      213: -2640399112242951180
+    second: Pixel Effects Sprites_20
+  - first:
+      213: 5978592601851259252
+    second: Pixel Effects Sprites_21
+  - first:
+      213: -6442586512714463215
+    second: Pixel Effects Sprites_22
+  - first:
+      213: -4301650002271213266
+    second: Pixel Effects Sprites_23
+  - first:
+      213: -6489751924954327587
+    second: Pixel Effects Sprites_24
+  - first:
+      213: 5662158094887858871
+    second: Pixel Effects Sprites_25
+  - first:
+      213: 1304824855857270039
+    second: Pixel Effects Sprites_26
+  - first:
+      213: -3775561991083218240
+    second: Pixel Effects Sprites_27
+  - first:
+      213: 5522331711002302207
+    second: Pixel Effects Sprites_28
+  - first:
+      213: -7784646556628420770
+    second: Pixel Effects Sprites_29
+  - first:
+      213: -7283675860153387413
+    second: Pixel Effects Sprites_30
+  - first:
+      213: 1426737291537639164
+    second: Pixel Effects Sprites_31
+  - first:
+      213: 3163061754397406817
+    second: Pixel Effects Sprites_32
+  - first:
+      213: -4666473628488186462
+    second: Pixel Effects Sprites_33
+  - first:
+      213: 8452461262659875178
+    second: Pixel Effects Sprites_34
+  - first:
+      213: 7166974981760727648
+    second: Pixel Effects Sprites_35
+  - first:
+      213: 1660048562965283952
+    second: Pixel Effects Sprites_36
+  - first:
+      213: 4689201341510554587
+    second: Pixel Effects Sprites_37
+  - first:
+      213: 3785752679044015509
+    second: Pixel Effects Sprites_38
+  - first:
+      213: -5766319702118820510
+    second: Pixel Effects Sprites_39
+  - first:
+      213: -6080550514348680989
+    second: Pixel Effects Sprites_40
+  - first:
+      213: 11178340938481492
+    second: Pixel Effects Sprites_41
+  - first:
+      213: -788626309020658004
+    second: Pixel Effects Sprites_42
+  - first:
+      213: -6522338118760339793
+    second: Pixel Effects Sprites_43
+  - first:
+      213: -5034181508206042422
+    second: Pixel Effects Sprites_44
+  - first:
+      213: -4289970713176413411
+    second: Pixel Effects Sprites_45
+  - first:
+      213: -3092759618289307709
+    second: Pixel Effects Sprites_46
+  - first:
+      213: -2190787919411805497
+    second: Pixel Effects Sprites_47
+  - first:
+      213: -8588029060797783706
+    second: Pixel Effects Sprites_48
+  - first:
+      213: -8204986667217890179
+    second: Pixel Effects Sprites_49
+  - first:
+      213: -7187117896437163121
+    second: Pixel Effects Sprites_50
+  - first:
+      213: 925605579145615727
+    second: Pixel Effects Sprites_51
+  - first:
+      213: -66499013031502726
+    second: Pixel Effects Sprites_52
+  - first:
+      213: -8006897273299626524
+    second: Pixel Effects Sprites_53
+  - first:
+      213: 8053089115925730238
+    second: Pixel Effects Sprites_54
+  - first:
+      213: 2319790451122490712
+    second: Pixel Effects Sprites_55
+  - first:
+      213: -4912391989167194192
+    second: Pixel Effects Sprites_56
+  - first:
+      213: 1446826703693041823
+    second: Pixel Effects Sprites_57
+  - first:
+      213: 1090683309195938403
+    second: Pixel Effects Sprites_58
+  - first:
+      213: 4160962683984649200
+    second: Pixel Effects Sprites_59
+  - first:
+      213: -1973560642586030113
+    second: Pixel Effects Sprites_60
+  - first:
+      213: 4157924881205550950
+    second: Pixel Effects Sprites_61
+  - first:
+      213: -1597543251984767960
+    second: Pixel Effects Sprites_62
+  - first:
+      213: 3736001347924602425
+    second: Pixel Effects Sprites_63
+  - first:
+      213: -7930643390584692401
+    second: Pixel Effects Sprites_64
+  - first:
+      213: 5004903668858233597
+    second: Pixel Effects Sprites_65
+  - first:
+      213: -3472831076914915219
+    second: Pixel Effects Sprites_66
+  - first:
+      213: -5865106998592797750
+    second: Pixel Effects Sprites_67
+  - first:
+      213: 5723241830359357752
+    second: Pixel Effects Sprites_68
+  - first:
+      213: -4366466879320191651
+    second: Pixel Effects Sprites_69
+  - first:
+      213: -83441809005080073
+    second: Pixel Effects Sprites_70
+  - first:
+      213: -3681289661519096116
+    second: Pixel Effects Sprites_71
+  - first:
+      213: -1132774758738239145
+    second: Pixel Effects Sprites_72
+  - first:
+      213: 8880222365925861123
+    second: Pixel Effects Sprites_73
+  - first:
+      213: 5103522281905315722
+    second: Pixel Effects Sprites_74
+  - first:
+      213: 1089342514008944951
+    second: Pixel Effects Sprites_75
+  - first:
+      213: -6909550523347169663
+    second: Pixel Effects Sprites_76
+  - first:
+      213: 669457473870999472
+    second: Pixel Effects Sprites_77
+  - first:
+      213: 6199148996498706038
+    second: Pixel Effects Sprites_78
+  - first:
+      213: -6960238146477134272
+    second: Pixel Effects Sprites_79
+  - first:
+      213: -3746661559582871780
+    second: Pixel Effects Sprites_80
+  - first:
+      213: 2310680294587345861
+    second: Pixel Effects Sprites_81
+  - first:
+      213: 7974907350110689553
+    second: Pixel Effects Sprites_82
+  - first:
+      213: 1187105942231151763
+    second: Pixel Effects Sprites_83
+  - first:
+      213: -4783642648736067863
+    second: Pixel Effects Sprites_84
+  - first:
+      213: -9191841370479723589
+    second: Pixel Effects Sprites_85
+  - first:
+      213: -647566047510244767
+    second: Pixel Effects Sprites_86
+  - first:
+      213: 4675539501480707633
+    second: Pixel Effects Sprites_87
+  - first:
+      213: -5066291191484135731
+    second: Pixel Effects Sprites_88
+  - first:
+      213: -9077860310395929065
+    second: Pixel Effects Sprites_89
+  - first:
+      213: -4187269844081620096
+    second: Pixel Effects Sprites_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c446408fe3dd2db0800000000000000
+      internalID: -4814959400986458936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da2b20a57463b20800000000000000
+      internalID: 3113754644291169567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3223c6d67588968f0800000000000000
+      internalID: -546755970669465053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8610d2cf048cd40800000000000000
+      internalID: 5604801188093585581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c206c25f7c98370800000000000000
+      internalID: 8325405241996487796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a79a46c723d5ca0800000000000000
+      internalID: -6026605216505693652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b443cef141bbd70800000000000000
+      internalID: 9059857202725276454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8822af02354af17d0800000000000000
+      internalID: -2945454954334510456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1eca11fe6ec0060800000000000000
+      internalID: 6921160641829724617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4cd07f6128ae120800000000000000
+      internalID: 2443908782947681459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1558328d7bffd20800000000000000
+      internalID: 3314569989704733152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f722a2a72ea9e0a0800000000000000
+      internalID: -6851753872812005383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9761834d79dd72790800000000000000
+      internalID: -7554826205720471943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab87ead83bdbd00800000000000000
+      internalID: 990144914190285426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Effects Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc06a94dd71f6ee0800000000000000
+      internalID: -1265766731076989708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
